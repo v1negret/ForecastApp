@@ -1,0 +1,11 @@
+D:\Repositories\ForecastApp\ForecastApp.View\bin\Release\net8.0-windows\publish\ForecastApp.View.exe
+D:\Repositories\ForecastApp\ForecastApp.View\bin\Release\net8.0-windows\publish\ForecastApp.View.dll
+D:\Repositories\ForecastApp\ForecastApp.View\bin\Release\net8.0-windows\publish\ForecastApp.View.deps.json
+D:\Repositories\ForecastApp\ForecastApp.View\bin\Release\net8.0-windows\publish\ForecastApp.View.runtimeconfig.json
+D:\Repositories\ForecastApp\ForecastApp.View\bin\Release\net8.0-windows\publish\ForecastApp.View.pdb
+D:\Repositories\ForecastApp\ForecastApp.View\bin\Release\net8.0-windows\publish\ForecastApp.ForecastService.dll
+D:\Repositories\ForecastApp\ForecastApp.View\bin\Release\net8.0-windows\publish\ForecastApp.GeoService.dll
+D:\Repositories\ForecastApp\ForecastApp.View\bin\Release\net8.0-windows\publish\ForecastApp.Models.dll
+D:\Repositories\ForecastApp\ForecastApp.View\bin\Release\net8.0-windows\publish\ForecastApp.ForecastService.pdb
+D:\Repositories\ForecastApp\ForecastApp.View\bin\Release\net8.0-windows\publish\ForecastApp.GeoService.pdb
+D:\Repositories\ForecastApp\ForecastApp.View\bin\Release\net8.0-windows\publish\ForecastApp.Models.pdb

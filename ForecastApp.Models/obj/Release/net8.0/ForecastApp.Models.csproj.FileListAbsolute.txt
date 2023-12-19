@@ -1,0 +1,11 @@
+D:\Repositories\ForecastApp\ForecastApp.Models\bin\Release\net8.0\ForecastApp.Models.deps.json
+D:\Repositories\ForecastApp\ForecastApp.Models\bin\Release\net8.0\ForecastApp.Models.dll
+D:\Repositories\ForecastApp\ForecastApp.Models\bin\Release\net8.0\ForecastApp.Models.pdb
+D:\Repositories\ForecastApp\ForecastApp.Models\obj\Release\net8.0\ForecastApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\ForecastApp\ForecastApp.Models\obj\Release\net8.0\ForecastApp.Models.AssemblyInfoInputs.cache
+D:\Repositories\ForecastApp\ForecastApp.Models\obj\Release\net8.0\ForecastApp.Models.AssemblyInfo.cs
+D:\Repositories\ForecastApp\ForecastApp.Models\obj\Release\net8.0\ForecastApp.Models.csproj.CoreCompileInputs.cache
+D:\Repositories\ForecastApp\ForecastApp.Models\obj\Release\net8.0\ForecastApp.Models.dll
+D:\Repositories\ForecastApp\ForecastApp.Models\obj\Release\net8.0\refint\ForecastApp.Models.dll
+D:\Repositories\ForecastApp\ForecastApp.Models\obj\Release\net8.0\ForecastApp.Models.pdb
+D:\Repositories\ForecastApp\ForecastApp.Models\obj\Release\net8.0\ref\ForecastApp.Models.dll

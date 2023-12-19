@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "ForecastApp.ForecastService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ForecastApp.GeoService": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ForecastApp.ForecastService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ForecastApp.ForecastService.dll": {}
+        }
+      },
+      "ForecastApp.GeoService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ForecastApp.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ForecastApp.GeoService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ForecastApp.GeoService.dll": {}
+        }
+      },
+      "ForecastApp.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ForecastApp.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ForecastApp.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForecastApp.ForecastService/1.0.0": {
+      "type": "project",
+      "path": "../ForecastApp.ForecastService/ForecastApp.ForecastService.csproj",
+      "msbuildProject": "../ForecastApp.ForecastService/ForecastApp.ForecastService.csproj"
+    },
+    "ForecastApp.GeoService/1.0.0": {
+      "type": "project",
+      "path": "../ForecastApp.GeoService/ForecastApp.GeoService.csproj",
+      "msbuildProject": "../ForecastApp.GeoService/ForecastApp.GeoService.csproj"
+    },
+    "ForecastApp.Models/1.0.0": {
+      "type": "project",
+      "path": "../ForecastApp.Models/ForecastApp.Models.csproj",
+      "msbuildProject": "../ForecastApp.Models/ForecastApp.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "ForecastApp.ForecastService >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\maksb\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Repositories\\ForecastApp\\ForecastApp.View\\ForecastApp.View.csproj",
+      "projectName": "ForecastApp.View",
+      "projectPath": "D:\\Repositories\\ForecastApp\\ForecastApp.View\\ForecastApp.View.csproj",
+      "packagesPath": "C:\\Users\\maksb\\.nuget\\packages\\",
+      "outputPath": "D:\\Repositories\\ForecastApp\\ForecastApp.View\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\maksb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "D:\\Repositories\\ForecastApp\\ForecastApp.ForecastService\\ForecastApp.ForecastService.csproj": {
+              "projectPath": "D:\\Repositories\\ForecastApp\\ForecastApp.ForecastService\\ForecastApp.ForecastService.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

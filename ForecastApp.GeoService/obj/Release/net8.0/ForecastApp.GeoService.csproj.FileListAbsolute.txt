@@ -1,0 +1,15 @@
+D:\Repositories\ForecastApp\ForecastApp.GeoService\bin\Release\net8.0\ForecastApp.GeoService.deps.json
+D:\Repositories\ForecastApp\ForecastApp.GeoService\bin\Release\net8.0\ForecastApp.GeoService.dll
+D:\Repositories\ForecastApp\ForecastApp.GeoService\bin\Release\net8.0\ForecastApp.GeoService.pdb
+D:\Repositories\ForecastApp\ForecastApp.GeoService\bin\Release\net8.0\ForecastApp.Models.dll
+D:\Repositories\ForecastApp\ForecastApp.GeoService\bin\Release\net8.0\ForecastApp.Models.pdb
+D:\Repositories\ForecastApp\ForecastApp.GeoService\obj\Release\net8.0\ForecastApp.GeoService.csproj.AssemblyReference.cache
+D:\Repositories\ForecastApp\ForecastApp.GeoService\obj\Release\net8.0\ForecastApp.GeoService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\ForecastApp\ForecastApp.GeoService\obj\Release\net8.0\ForecastApp.GeoService.AssemblyInfoInputs.cache
+D:\Repositories\ForecastApp\ForecastApp.GeoService\obj\Release\net8.0\ForecastApp.GeoService.AssemblyInfo.cs
+D:\Repositories\ForecastApp\ForecastApp.GeoService\obj\Release\net8.0\ForecastApp.GeoService.csproj.CoreCompileInputs.cache
+D:\Repositories\ForecastApp\ForecastApp.GeoService\obj\Release\net8.0\ForecastApp.GeoService.csproj.CopyComplete
+D:\Repositories\ForecastApp\ForecastApp.GeoService\obj\Release\net8.0\ForecastApp.GeoService.dll
+D:\Repositories\ForecastApp\ForecastApp.GeoService\obj\Release\net8.0\refint\ForecastApp.GeoService.dll
+D:\Repositories\ForecastApp\ForecastApp.GeoService\obj\Release\net8.0\ForecastApp.GeoService.pdb
+D:\Repositories\ForecastApp\ForecastApp.GeoService\obj\Release\net8.0\ref\ForecastApp.GeoService.dll
